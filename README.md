@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-674f67) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [minimax-h3-context-ir-prompts-cn](https://github.com/v1ghgb12o0em/minimax-h3-context-ir-prompts-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch `minimax-h3-context-ir-api-de` · Español `minimax-h3-context-ir-api-es` · Français `minimax-h3-context-ir-api-fr` · Relay/gateway `minimax-h3-context-ir-api-gateway` · Bahasa `minimax-h3-context-ir-api-id` · 日本語 `minimax-h3-context-ir-api-ja` · 한국어 `minimax-h3-context-ir-api-ko` · Português `minimax-h3-context-ir-api-pt` · Русский `minimax-h3-context-ir-api-ru`
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [minimax-h3-context-ir](https://github.com/topics/minimax-h3-context-ir) · [minimax-h3-context-ir-api](https://github.com/topics/minimax-h3-context-ir-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
